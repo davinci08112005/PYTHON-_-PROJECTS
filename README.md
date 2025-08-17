@@ -9,6 +9,7 @@ Add and delete tasks
 Mark tasks as complete
 View the list of tasks
 Easy-to-use command-line interface
+
 2. 🔑 Password Generator
 This project generates secure, random passwords that include upper and lowercase letters, numbers, and special characters. It ensures that your passwords are strong and reliable.
 
@@ -16,6 +17,7 @@ Key Features:
 Customizable password length
 Diverse character sets (letters, numbers, symbols)
 Fully random and secure password generation
+
 3. ➗ Simple Calculator
 A basic calculator that performs simple arithmetic operations like addition, subtraction, multiplication, and division. It also includes error handling for invalid inputs, including division by zero.
 
