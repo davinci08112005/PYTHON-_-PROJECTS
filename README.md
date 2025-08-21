@@ -76,3 +76,34 @@ It supports conversions between:
 Add more units (meters ↔ feet, kg ↔ pounds, liters ↔ gallons, etc.)
 Add loop to keep converting until user exits
 Create a GUI version using Tkinter
+
+🎯 Python Project: Multiplayer Number Guessing Game (GUI)
+
+ 📌 Overview
+A fun **multiplayer number guessing game** built with Python and Tkinter.  
+- **Player 1** secretly sets a number (1–100).  
+- **Player 2** guesses the number within limited attempts.  
+- Game provides feedback (**Too High / Too Low / Correct**).  
+- Supports **reset** for new rounds.  
+
+ 🚀 Features
+- 🖥️ Graphical User Interface with Tkinter  
+- 🔒 Player 1’s number entry is hidden (`*`)  
+- 🎮 Player 2 guesses with feedback  
+- 🎯 Limited attempts (default = 7)  
+- 🔁 Reset button for replay  
+
+ 📂 Requirements
+- Python 3.x  
+- Tkinter (comes pre-installed with Python)  
+
+🔧 Possible Improvements
+Add difficulty levels (Easy = 10 attempts, Hard = 5 attempts)
+Auto-switch roles between Player 1 and Player 2
+Display history of guesses
+Add background music or sound effects
+
+Feel free to ask if you have any questions or suggestions! 😊  If you like this project, don’t forget to ⭐ the repo.   Contributions, issues, and feature requests are welcome!  
+
+
+
