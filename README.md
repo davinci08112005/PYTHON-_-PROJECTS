@@ -51,6 +51,7 @@ It displays the current time & date, updates every second, and allows you to set
 - 📅 Shows current date
 - 🌈 Dynamic colors based on time of day (morning/day/night)
 - 🔔 Alarm functionality (enter time in `HH:MM:SS AM/PM` format)
+
  📂 Requirements
 - Python 3.x
 - tkinter (pre-installed with Python)
