@@ -57,3 +57,22 @@ It displays the current time & date, updates every second, and allows you to set
 - tkinter (pre-installed with Python)
 
 
+Unit Converter
+## 📌 Overview
+A simple **CLI Unit Converter** built with Python.  
+It supports conversions between:
+- Kilometers ↔ Miles
+- Celsius ↔ Fahrenheit
+
+## 🚀 Features
+- Easy-to-use CLI menu
+- Error handling for invalid input
+- Modular functions for each conversion
+
+## 📂 Requirements
+- Python 3.x (no external libraries needed)
+  
+🔧 Possible Improvements
+Add more units (meters ↔ feet, kg ↔ pounds, liters ↔ gallons, etc.)
+Add loop to keep converting until user exits
+Create a GUI version using Tkinter
