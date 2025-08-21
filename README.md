@@ -54,6 +54,5 @@ It displays the current time & date, updates every second, and allows you to set
  📂 Requirements
 - Python 3.x
 - tkinter (pre-installed with Python)
- ▶️ How to Run
-```bash python digital_clock.py  .
+
 
