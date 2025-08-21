@@ -41,5 +41,23 @@ Adding a graphical user interface (GUI) for some of the projects.
 Expanding the To-Do List with priority levels and deadlines.
 Improving error handling and customization in the Password Generator.
 Enhancing the Rock, Paper, Scissors game with more features like game modes or animations.
+
+
+5. 🕒 Digital Clock with Alarm (Python + Tkinter)
+📌 Project Overview
+A simple digital clock built with Python's `tkinter` GUI library.  
+It displays the current time & date, updates every second, and allows you to set an alarm.
+ 🚀 Features
+- ⏰ Real-time digital clock
+- 📅 Shows current date
+- 🌈 Dynamic colors based on time of day (morning/day/night)
+- 🔔 Alarm functionality (enter time in `HH:MM:SS AM/PM` format)
+ 📂 Requirements
+- Python 3.x
+- tkinter (pre-installed with Python)
+ ▶️ How to Run
+```bash
+python digital_clock.py
+
 Contributing:
 Feel free to fork the repository and submit pull requests if you have ideas for improving these projects or adding new features!
